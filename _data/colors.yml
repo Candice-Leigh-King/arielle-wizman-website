@@ -9,6 +9,7 @@ text-colors:
 background-colors:
   image-and-text-background_color: '#266570'
   projects-background_color: '#acdde8'
+  main-project-background_color: '#266570'
   projects-text-background_color: '#f1887e'
   carousel-background_color: '#64bcca'
 form-colors:
