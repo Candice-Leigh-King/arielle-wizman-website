@@ -7,11 +7,11 @@ text-colors:
   links-hover_color: '#ffffff'
   hamburger_color: '#266570'
 background-colors:
-  image-and-text-background_color: '#266570'
-  projects-background_color: '#acdde8'
-  main-project-background_color: '#266570'
-  projects-text-background_color: '#f1887e'
-  carousel-background_color: '#64bcca'
+  image-and-text-background_color: '#fbc5ff'
+  projects-background_color: '#d3b1c2'
+  main-project-background_color: '#c197d2'
+  projects-text-background_color: '#ffffff'
+  carousel-background_color: '#fbc5ff'
 form-colors:
   form-background_color: '#acdde8'
   form-arche-background_color: '#266570'
