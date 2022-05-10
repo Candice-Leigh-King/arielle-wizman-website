@@ -1,2 +1,2 @@
-# ig-creator-academy-website
+# arielle-wizman-website
  
