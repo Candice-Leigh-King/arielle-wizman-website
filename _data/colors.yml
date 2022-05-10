@@ -2,7 +2,7 @@ text-colors:
   hero_color: '#ffffff'
   headings_color: '#ffffff'
   subheadings_color: '#ffffff'
-  text_color: '#ffffff'
+  text_color: '#313132'
   link_color: '#266570'
   links-hover_color: '#ffffff'
   hamburger_color: '#266570'
