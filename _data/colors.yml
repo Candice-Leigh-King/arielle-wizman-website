@@ -13,10 +13,10 @@ background-colors:
   projects-text-background_color: '#ffffff'
   carousel-background_color: '#fbc5ff'
 form-colors:
-  form-background_color: '#acdde8'
-  form-arche-background_color: '#266570'
+  form-background_color: '#f4c1ec'
+  form-arche-background_color: '#ff46a4'
   form-text_color: '#ffffff'
-  button_color: '#64bcca'
+  button_color: '#ff46a4'
   button-text_color: '#ffffff'
 navigation-colors:
   navigation-background_color: '#64bcca'
