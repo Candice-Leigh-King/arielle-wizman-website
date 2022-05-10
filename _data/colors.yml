@@ -3,9 +3,9 @@ text-colors:
   headings_color: '#ffffff'
   subheadings_color: '#ffffff'
   text_color: '#313132'
-  link_color: '#266570'
+  link_color:
   links-hover_color: '#ffffff'
-  hamburger_color: '#266570'
+  hamburger_color: '#f4c1ec'
 background-colors:
   image-and-text-background_color: '#fbc5ff'
   projects-background_color: '#d3b1c2'
