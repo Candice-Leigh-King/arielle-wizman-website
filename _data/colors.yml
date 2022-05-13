@@ -19,14 +19,14 @@ form-colors:
   button_color: '#59371c'
   button-text_color: '#ffffff'
 navigation-colors:
-  navigation-background_color: '#f4c1ec'
-  navigation-arche-background_color: '#d3b1c2'
+  navigation-background_color: '#ebdacc'
+  navigation-arche-background_color: '#e4b1a5'
   navigation-background_image:
   navigation-arch-background_image:
 footer-colors:
-  footer-background_color: '#ff46a4'
-  social-icons_color: '#f4c1ec'
-  social-icons-inner_color: '#c197d2'
+  footer-background_color: '#ebdacc'
+  social-icons_color: '#dd8470'
+  social-icons-inner_color: '#ebdacc'
 media-kit:
-  button_color: '#602ff7'
-  button-hover_color: '#fdfaf0'
+  button_color: '#8f542e'
+  button-hover_color: '#ffffff'
