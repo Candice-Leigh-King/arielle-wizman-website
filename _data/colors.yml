@@ -1,11 +1,11 @@
 text-colors:
-  hero_color: '#ffffff'
-  headings_color: '#ffffff'
-  subheadings_color: '#ffffff'
+  hero_color: '#ebdacc'
+  headings_color: '#8f542e'
+  subheadings_color: '#59371c'
   text_color: '#313132'
-  link_color:
+  link_color: '#dd8470'
   links-hover_color: '#ffffff'
-  hamburger_color: '#f4c1ec'
+  hamburger_color: '#e4b1a5'
 background-colors:
   image-and-text-background_color: '#fbc5ff'
   projects-background_color: '#d3b1c2'
